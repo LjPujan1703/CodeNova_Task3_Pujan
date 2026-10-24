@@ -1,0 +1,2 @@
+selected_model,test_accuracy,test_precision_benign,test_recall_benign,test_f1_benign,test_roc_auc_benign,train_size,test_size
+Logistic Regression,0.956140350877193,0.9855072463768116,0.9444444444444444,0.9645390070921985,0.9953703703703703,455,114
